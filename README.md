@@ -5,7 +5,7 @@ Reference: Li J, Cheng K, Wang S, et al. [Feature selection: A data perspective]
 ###
 Chen K, Xue B, Zhang M, et al. [An evolutionary multitasking-based feature selection method for high-dimensional classification](https://ieeexplore.ieee.org/abstract/document/9311803)[J]. IEEE Transactions on Cybernetics, 2020, 52(7): 7172-7186.
 ### Acknowledgement:
-The implementation is based on the code of [datasets1](https://ckzixf.github.io/dataset.html) and [datasets2](https://jundongl.github.io/scikit-feature/datasets.html). Thanks to them.
+The implementation is based on the [datasets1](https://ckzixf.github.io/dataset.html) and [datasets2](https://jundongl.github.io/scikit-feature/datasets.html). Thanks to them.
 ### Run:
 You can use the transform_matlab_datasets.py to transform the matlab datasets.
 ### ⭐Star:
